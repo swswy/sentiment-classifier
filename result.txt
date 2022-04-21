@@ -1,0 +1,26 @@
+the performance of mlp_model.h5 is:
+test_loss: 2.966571, accuracy: 0.455969
+f1 score:(macro)
+0.4558203724419583
+f1 score:(micro)
+0.4559686888454011
+coef:
+0.3809318272515913
+
+the performance of cnn_model.h5 is:
+test_loss: 2.276823, accuracy: 0.515329
+f1 score:(macro)
+0.5192027413829361
+f1 score:(micro)
+0.5153294194390085
+coef:
+0.39395579326330554
+
+the performance of rnn_model.h5 is:
+test_loss: 1.478666, accuracy: 0.472277
+f1 score:(macro)
+0.44498468963403226
+f1 score:(micro)
+0.47227658186562294
+coef:
+0.38914489347576475
